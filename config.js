@@ -21,7 +21,7 @@ global.APIKeys = {
 }
 ////////////////////////////////////////////////////|:|             OWNER DETAILS             |:|//////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-global.session = process.env.SESSION_ID || 'SFBzcVFlVVQ=',
+global.session = process.env.SESSION_ID || 'QlhDczRiMW4=',
 global.ownername = process.env.OWNER_NAME === undefined ? "Mr Lakshan" : process.env.OWNER_NAME
 let fake = process.env.OWNER_NUMBER === undefined ? '94766370881' : process.env.OWNER_NUMBER
 global.owner = [`${fake}`]
